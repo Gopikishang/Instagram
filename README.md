@@ -1,4 +1,13 @@
-
+// goto service/config/config.local.ts，config your dabase information
+config.sequelize = {
+    dialect: 'mysql',
+    host: '127.0.0.1',
+    port: 3306,
+    database: 'learn',
+    username: '', 
+    password: '', 
+    operatorsAliases: false
+}; 
 ## Introduction
 
 [中文简介](./README_ZH.md)
@@ -16,7 +25,7 @@ Before and after the end of the separation of development mode, the front-end an
 
 ```javascript
 // instagram/client The front-end engineering
-// instagram/service The backend engineering
+// instagram/services The backend engineering
 ```
 
 Note: this project is purely personal fiddle, have nothing to do with them.
