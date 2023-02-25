@@ -1,4 +1,4 @@
-
+.
 ## Introduction
 
 [中文简介](./README_ZH.md)
@@ -76,7 +76,7 @@ config.sequelize = {
     database: 'learn',
     username: zx__gopikishan_pb_0022
  
-    password: '111111111, 
+    password: '11111111 
     operatorsAliases: false
 };
 ```
