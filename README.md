@@ -74,8 +74,9 @@ config.sequelize = {
     host: '127.0.0.1',
     port: 3306,
     database: 'learn',
-    username: '', 
-    password: '', 
+    username: zx__gopikishan_pb_0022
+ 
+    password: '111111111, 
     operatorsAliases: false
 };
 ```
